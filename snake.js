@@ -10,10 +10,10 @@ const box = 32;
 // load images
 
 const ground = new Image();
-ground.src = "image/ground.png";
+ground.src = "images/ground.png";
 
 const foodImg = new Image();
-foodImg.src = "image/food.png";
+foodImg.src = "images/food.png";
 
 // load audio files
 
